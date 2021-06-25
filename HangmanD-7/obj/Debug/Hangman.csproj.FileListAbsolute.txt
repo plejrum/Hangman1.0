@@ -1,0 +1,10 @@
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.csproj.AssemblyReference.cache
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.csproj.GenerateResource.cache
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.Hangman.resources
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\bin\Debug\Hangman.exe.config
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\bin\Debug\Hangman.exe
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\bin\Debug\Hangman.pdb
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.Properties.Resources.resources
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.exe
+C:\Users\plejr\Desktop\HangmanD-7\HangmanD-7\obj\Debug\Hangman.pdb
